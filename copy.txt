@@ -1,0 +1,5 @@
+Hello
+This is Python file handling
+Writing using write()
+This is appended line
+Another appended line

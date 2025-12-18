@@ -1,0 +1,5 @@
+Hello
+This iInsertedTexte handling
+Writing using write()
+This is appended line
+Another appended line
